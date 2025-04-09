@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "En", "unavailable": false, "symbol": "en", "code": "en", "label": "EN" },
+    { "id": 2, "name": "中文", "unavailable": false, "symbol": "cn", "code": "cn", "label": "中文" },
+    { "id": 3, "name": "русский", "unavailable": false, "symbol": "rn", "code": "ru", "label": "RU" },
+    { "id": 4, "name": "KO", "unavailable": false, "symbol": "kn", "code": "kn", "label": "KN" }
+  ]
+  
